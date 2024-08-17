@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJc5WXWG+QtvKCpJGxOnYfQVmNSI/H/4Vm2aL7uoS/1FHwZ2wB44RMKkZXGuyFxcshIbEjL1bbP6YVd2tFKFBw==",
+  "success": true,
+  "projectFilePath": "/Users/peacetran/Desktop/C#/Middleware_Sample/Middleware_Web/Middleware_Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/peacetran/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/peacetran/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/peacetran/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
